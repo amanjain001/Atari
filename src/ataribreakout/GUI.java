@@ -73,8 +73,8 @@ public class GUI implements  ActionListener
 	    	
 	    	JOptionPane.showMessageDialog(frame1,
 	    	        " Atari Breakout game developed by   "
-	    	        + " Abhay Pratap Singh ,"+" \n"+" Abhinav Mittal "
-	    	        		+ "and Aman Jain ",
+	    	        + " Aman Jain ,"+" \n"+" Abhinav Mittal "
+	    	        		,
 	    	        "Atari Breakout ",
 	    	        JOptionPane.INFORMATION_MESSAGE);
 	    	

@@ -127,7 +127,7 @@ public void update()
 			 
 		     ball.add(new Block(paddle.x+75,410,32,32,"b3.jpg"));
 		     p.ballx*=3;
-		     p.bally*=3;
+		     p.bally*=-3;
 		     
 			score+=30;	
 		   lab.setText(" " + score);
